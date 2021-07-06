@@ -10,3 +10,6 @@ Single day lecure that focus on performance, best practices and tools.
 4. Reduce Bundle Size
 5. SSR
 6. Next.js
+
+## Video
+
