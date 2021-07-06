@@ -13,3 +13,4 @@ Single day lecure that focus on performance, best practices and tools.
 
 ## Video
 
+https://johnbryce.zoom.us/rec/share/zc98i5ik_Q1sx_gPjon7fOF64RF7vfxVx4EDUP0N8m_SlQEsgKHO_tvVT9VIsqMW.lx16Azz0OmnteRv1
